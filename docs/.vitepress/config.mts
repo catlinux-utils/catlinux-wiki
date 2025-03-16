@@ -24,5 +24,6 @@ export default defineConfig({
         ],
       },
     ],
+    logo: "/favicon.png",
   },
 });
