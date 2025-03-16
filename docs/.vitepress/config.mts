@@ -5,7 +5,7 @@ export default defineConfig({
   title: "CatLinux Wiki",
   description: "A VitePress Site",
   base: "/catlinux-wiki/",
-  head: [["link", { rel: "icon", href: "public/favicon.png" }]],
+  head: [["link", { rel: "icon", href: "/catlinux-wiki/favicon.png" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
