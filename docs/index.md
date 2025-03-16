@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Markdown Examples
-      link: /catlinux-wiki/markdown-examples
+      link: /markdown-examples
 features:
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
