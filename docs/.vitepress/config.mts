@@ -10,10 +10,25 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
+      { text: "ArchLinux", link: "/archlinux-instalation" },
     ],
 
     sidebar: [
+      {
+        text: "Instalacja ArchLinuxa",
+        link: "/archlinux-instalation",
+        items: [
+          {
+            text: "Przed instalacją",
+            link: "/archlinux-instalation/pre-instalation",
+          },
+          { text: "Instalacja", link: "/archlinux-instalation/instalation" },
+          {
+            text: "Po instalacji",
+            link: "/archlinux-instalation/post-instalation",
+          },
+        ],
+      },
       {
         text: "Examples",
         items: [

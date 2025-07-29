@@ -4,17 +4,17 @@ layout: home
 
 hero:
   name: "CatLinux Wiki"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "Zbiór rzeczy zagubionych"
+  tagline: ArchLinux albo ŚMIERĆ!!
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: ArchLinux Instalation
+      link: /archlinux-instalation
+#features:
+#  - title: Feature A
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - title: Feature B
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - title: Feature C
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
